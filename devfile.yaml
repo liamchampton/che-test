@@ -12,6 +12,10 @@ projects:
     source:
       type: git
       location: 'https://github.com/microclimate-dev2ops/nodeExpressTemplate'
+  - name: marknodehttps
+    source:
+      type: git
+      location: 'https://github.com/markcor11/mark-node-https'
 components:
   - alias: theia-ide
     type: cheEditor
