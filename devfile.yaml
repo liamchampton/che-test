@@ -4,14 +4,6 @@ apiVersion: 1.0.0
 metadata:
   name: codewind-plugin-mark
 projects:
-  - name: goproj
-    source:
-      type: git
-      location: 'https://github.com/microclimate-dev2ops/microclimateGoTemplate'
-  - name: nodeTemplate
-    source:
-      type: git
-      location: 'https://github.com/microclimate-dev2ops/nodeExpressTemplate'
   - name: marknodehttps
     source:
       type: git
